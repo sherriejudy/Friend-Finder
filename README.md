@@ -8,5 +8,5 @@
 
 ## Demo
 	
-*Friend Finder* is deployed to Heroku. Please check it out [here]().
+*Friend Finder* is deployed to Heroku. Please check it out [here](https://still-lowlands-88999.herokuapp.com/).
 
