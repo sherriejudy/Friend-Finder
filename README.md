@@ -8,7 +8,18 @@
 
 *Friend Finder* application is meant to simulate a simple dating app, implemented using a [Node.js](https://nodejs.org/en/) and [Express](https://expressjs.com/) backend servers.
 
+### Built With
 
+```
+* Node.JS
+* Express
+* JavaScript
+* JQuery
+* Bootstrap
+* HTML
+* CSS
+
+```
 	
 
 
