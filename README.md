@@ -2,7 +2,8 @@
 
 *Friend Finder* is deployed to Heroku. Please check it out [here](https://still-lowlands-88999.herokuapp.com/).
 
-<img src="https://github.com/sherriejudy/giftastic/blob/master/assets/images/Screen%20Shot%202018-12-30%20at%205.12.07%20PM.png"></img>
+<img src="https://github.com/sherriejudy/Friend-Finder/blob/master/app/photos/Screen%20Shot%202018-12-31%20at%202.59.32%20PM.png"></img>
+<img src="https://github.com/sherriejudy/Friend-Finder/blob/master/app/photos/Screen%20Shot%202018-12-31%20at%202.59.40%20PM.png"></img>
 
 ## Description
 
