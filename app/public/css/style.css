@@ -1,0 +1,56 @@
+body {
+    text-align: center;
+    background-color: #A7EBC7;
+}
+html { 
+    background: url("fistbump") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  h1 {
+	font-family: 'Bungee', cursive;
+	font-size: 85px !important;
+	color: #A7EBC7;
+	letter-spacing: 4px;
+	padding-top: 100px;
+}
+h4 {
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 20px !important;
+	color: #FFF;
+	text-transform: uppercase
+}
+
+#header {
+    margin-top: -35px;
+  }
+  
+  #subhead {
+      margin-top: -20px;
+  }
+  
+  #top,
+#bottom,
+#left,
+#right {
+	background: #A7EBC7;
+	position: fixed;
+}
+
+#left,
+#right {
+	top: 0; bottom: 0;
+	width: 20px;
+}
+	#left { left: 0; }
+	#right { right: 0; }
+
+#top,
+#bottom {
+	left: 0; right: 0;
+	height: 20px;
+}
+	#top { top: 0; }
+	#bottom { bottom: 0; }
