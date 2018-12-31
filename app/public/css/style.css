@@ -24,6 +24,9 @@ h4 {
 	color: #FFF;
 	text-transform: uppercase
 }
+form {
+    text-align: left;
+  }
 
 #header {
     margin-top: -35px;
