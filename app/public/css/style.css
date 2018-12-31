@@ -28,6 +28,10 @@ form {
     text-align: left;
   }
 
+  .jumbotron {
+    background-color: rgba(0, 0, 0, 0);
+  }
+
 #header {
     margin-top: -35px;
   }
